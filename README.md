@@ -1,2 +1,2 @@
 # Curso-Practico-JS
-Repositorio par  el proyecto dle curso de JS
+Repositorio para  el proyecto del curso de JS
