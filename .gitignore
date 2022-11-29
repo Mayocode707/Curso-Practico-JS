@@ -107,3 +107,5 @@ dist
 # Carpetas de imagenes
 *.svg
 *.png
+/icons
+/logos
